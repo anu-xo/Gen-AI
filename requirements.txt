@@ -1,0 +1,13 @@
+langchain
+langchain-openai
+langchain-anthropic
+langchain-groq
+dotenv
+langchain-google-genai 
+langchain-community 
+langchain-nvidia-ai-endpoints 
+langchain-huggingface 
+chromadb 
+pypdf 
+sentence-transformers 
+python-dotenv
