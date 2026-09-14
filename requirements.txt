@@ -12,3 +12,5 @@ pypdf
 sentence-transformers 
 python-dotenv
 streamlit
+matplotlib
+langchain-ollama
