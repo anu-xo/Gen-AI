@@ -14,5 +14,4 @@ python-dotenv
 streamlit
 matplotlib
 langchain-ollama
-langchain-community
 langgraph
