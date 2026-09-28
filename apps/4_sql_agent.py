@@ -59,8 +59,6 @@ if "messages" not in st.session_state:
     st.session_state.messages = []
 
 for message in st.session_state.messages:
-    role = message ["role"]
-    content = message ["content"]
     st.chat_message["role"].markdown(message["content"])                     
 
 prompt = st.chat_input("Ask me anything about your tasks...")
