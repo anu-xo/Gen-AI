@@ -18,3 +18,6 @@ langgraph
 beautifulsoup4
 wikipedia
 langchain-text-splitters
+langchain-chroma
+langchain-prompts
+
